@@ -3,7 +3,7 @@
 Automatic web page progress bar (Pace) for Yii Framework
 
 
-```html
+```php
 <?php $this->widget('ext.ypace.YPace', array(
 	'theme' => 'center-radar' 
 )); ?>
