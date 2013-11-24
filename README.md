@@ -25,10 +25,5 @@ Automatic web page progress bar (Pace) for Yii Framework
 ### Thanks for 
 [https://github.com/HubSpot/pace/](https://github.com/HubSpot/pace/)
 
-
-	<?php $this->widget('ext.ypace.YPace', array(
-		'theme' => 'center-radar' 
-	)); ?>
-	
 ### Demo
 [http://github.hubspot.com/pace/docs/welcome/](http://github.hubspot.com/pace/docs/welcome/)
